@@ -3,4 +3,4 @@ Developed a personalized job application website using HTML and CSS. Highlighted
 
 
 you can view my job-application project by clicking on the following link:
-https://github.com/khushiy14/Job-Application.git
+https://khushiy14.github.io/Job-Application/
